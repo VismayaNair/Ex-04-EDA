@@ -72,3 +72,7 @@ sns.heatmap(df.corr(),annot=True)
 ![output](v8.png)
 ![output](v9.png)
 ![output](v10.png)
+
+# RESULT :
+ THUS THE EDA IS PERFORMED ON THE GIVEN SET 
+ 
